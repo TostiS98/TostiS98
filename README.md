@@ -1,4 +1,4 @@
-### Hey there! 👋
+### Howdy! 🤠
 
 - 💬 I'm Stefan Tosti
 - ⚡ An Electrical Engineering Student @ McMaster University

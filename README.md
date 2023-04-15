@@ -6,4 +6,3 @@
 - 📫 You can reach me here -> Tostis@mcmaster.ca
 - 🔭 Check out my personal website -> https://sites.google.com/view/stefan-tosti/home
 
--->

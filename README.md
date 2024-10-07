@@ -3,7 +3,7 @@
 - 💬 I'm Stefan Tosti
 - ⚡ An Electrical Engineering Student @ McMaster University
 - 🌱 I’m interested in power electronics, utilities, and clean energy!
-- 🔋 Incoming PEY Student @ OPG in the Measuring & Data Analytics Centre
+- 🔋 Incoming PEY Student @ OPG in the Monitoring & Diagnostics Centre
 - 🔮 Below i've got some work from a bunch of my classes, feel free to have a look!
 - 📫 You can reach me here -> Tostis@mcmaster.ca
 - 🔭 Check out my personal website -> https://sites.google.com/view/stefan-tosti/home
